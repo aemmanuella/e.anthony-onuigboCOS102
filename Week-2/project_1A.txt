@@ -1,0 +1,18 @@
+Start 
+Display total purchase amount  
+Ask the customer to select a payment method (Cash, Card, Mobile Payment)  
+If Cash:  
+   - Ask for the amount given  
+   - Calculate change (if any)  
+   - Dispense change  
+If Card:  
+   - Request card details or PIN entry  
+   - Process payment  
+   - Confirm transaction success  
+If Mobile Payment:  
+   - Request mobile number  
+   - Process mobile payment  
+   - Confirm transaction success  
+Generate and print receipt  
+Thank the customer and end transaction  
+End
