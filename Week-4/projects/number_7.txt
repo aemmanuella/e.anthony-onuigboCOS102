@@ -1,0 +1,2 @@
+x in outer_func: 20
+x in global: 30
